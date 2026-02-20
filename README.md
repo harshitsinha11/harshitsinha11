@@ -1,6 +1,19 @@
 # 💫 About Me:
-I am currently working on<br>A multithreaded search engine, production-grade APIs in Go and Java, and an empirical study of Redis architectures<br><br>I am looking to collaborate on<br>Backend systems, distributed systems, and CI/CD-driven engineering workflows<br><br>I am looking for help with<br>Production-grade system design and cloud architecture<br><br>I am currently learning<br>Spring Boot, FastAPI, Docker, AWS, and Go concepts<br><br>Ask me about<br>Java backend development, multithreading, search systems, and AWS or Go development
 
+🚀 **I am currently working on**  
+A multithreaded search engine, production-grade APIs in Go and Java, and an empirical study of Redis architectures.
+
+🤝 **I am looking to collaborate on**  
+Backend systems, distributed systems, and CI/CD-driven engineering workflows.
+
+🧠 **I am looking for help with**  
+Production-grade system design and scalable cloud architecture.
+
+📚 **I am currently learning**  
+Spring Boot, FastAPI, Docker, AWS, and advanced Go concepts.
+
+💬 **Ask me about**  
+Java backend development, multithreading, search systems, AWS, and Go development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitsinha1107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit.sinhajuly2004@gmail.com) 
